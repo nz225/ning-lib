@@ -1,7 +1,7 @@
 ﻿fips,name,infected
 36001,Albany,61
 36003,Allegany,2
-36005,Bronx,4408
+36005,New York City,4408
 36007,Broome,2
 36009,Cattaraugus,
 36011,Cayuga,
@@ -22,14 +22,14 @@
 36041,Hamilton,2
 36043,Herkimer,2
 36045,Jefferson,1
-36047,Kings,4408
+36047,New York City,4408
 36049,Lewis,
 36051,Livingston,1
 36053,Madison,
 36055,Monroe,32
 36057,Montgomery,2
 36059,Nassau,754
-36061,New York,4408
+36061,New York City,4408
 36063,Niagara,3
 36065,Oneida,2
 36067,Onondaga,8
@@ -39,9 +39,9 @@
 36075,Oswego,
 36077,Otsego,
 36079,Putnam,7
-36081,Queens,4408
+36081,New York City,4408
 36083,Rensselaer,8
-36085,Richmond,4408
+36085,New York City,4408
 36087,Rockland,101
 36089,Saratoga,24
 36091,Schenectady,21
